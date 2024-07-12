@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "testwebsite"
+  title: "DS지존짱짱맨 이삭"
   navbar:
     left:
       - href: index.qmd
