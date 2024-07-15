@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DS지존짱짱맨 이삭",
+    "title": "Finley Malloc",
     "section": "",
-    "text": "안녕하세요, 데이터 분석 지존짱짱맨 이삭입니다.\n\n1+1\n\n2"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018\n\n \n  \n   \n  \n    \n     twitter\n  \n  \n    \n     Github"
   },
   {
     "objectID": "index.html#홈페이지-첫-화면입니다",
@@ -33,5 +33,33 @@
     "title": "hw1",
     "section": "",
     "text": "import pandas as pd\n\ndf = pd.DataFrame({\n    \"col1\": [1, 2, 3]\n})\ndf\n\n\n\n\n\n\n\n\ncol1\n\n\n\n\n0\n1\n\n\n1\n2\n\n\n2\n3"
+  },
+  {
+    "objectID": "index.html#소개",
+    "href": "index.html#소개",
+    "title": "이삭의 포트폴리오에 오신 것을 환영합니다",
+    "section": "소개",
+    "text": "소개\n안녕하세요! 저는 데이터 사이언스 분야에서 경력을 쌓기 위해 준비하고 있는 이삭입니다. 데이터 분석, 시각화, 머신러닝 등에 열정을 가지고 있으며, 다양한 프로젝트를 통해 실력을 키워가고 있습니다.\n\n기술 스택\n\n\n\n프로그래밍 언어: Python, R, SQL\n데이터 분석 및 시각화: Pandas, NumPy, Matplotlib, Seaborn, ggplot2\n\n\n\n\n머신러닝: Scikit-learn, TensorFlow, Keras\n데이터베이스: MySQL, PostgreSQL\n기타 도구: Git, Jupyter, RStudio"
+  },
+  {
+    "objectID": "index.html#연락처",
+    "href": "index.html#연락처",
+    "title": "이삭의 포트폴리오에 오신 것을 환영합니다",
+    "section": "연락처",
+    "text": "연락처\n\n\n\n이메일: your.email@example.com\n\n\n\n\nLinkedIn: your-linkedin-profile\nGitHub: your-github-profile"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Finley Malloc",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Finley Malloc",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]
