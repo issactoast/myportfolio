@@ -67,7 +67,7 @@
     "href": "blog.html",
     "title": "myblog",
     "section": "",
-    "text": "hw1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "LS 빅데이터 스쿨 Homework 1\n\n\n\n\n\n\nbigdata\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\n이삭\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/test/index.html",
@@ -79,14 +79,14 @@
   {
     "objectID": "posts/hw1/index.html",
     "href": "posts/hw1/index.html",
-    "title": "hw1",
+    "title": "LS 빅데이터 스쿨 Homework 1",
     "section": "",
     "text": "import pandas as pd\n\ndf = pd.DataFrame({\n    \"col1\": [1, 2, 3]\n})\ndf\n\n\n\n\n\n\n\n\ncol1\n\n\n\n\n0\n1\n\n\n1\n2\n\n\n2\n3"
   },
   {
     "objectID": "posts/hw1/index.html#다음-표의-내용을-데이터-프레임으로-만들어-출력해-보세요.",
     "href": "posts/hw1/index.html#다음-표의-내용을-데이터-프레임으로-만들어-출력해-보세요.",
-    "title": "hw1",
+    "title": "LS 빅데이터 스쿨 Homework 1",
     "section": "",
     "text": "import pandas as pd\n\ndf = pd.DataFrame({\n    \"col1\": [1, 2, 3]\n})\ndf\n\n\n\n\n\n\n\n\ncol1\n\n\n\n\n0\n1\n\n\n1\n2\n\n\n2\n3"
   }
